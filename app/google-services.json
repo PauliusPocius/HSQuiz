@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_number": "858164651513",
+    "firebase_url": "https://hsquiz-3f4f7.firebaseio.com",
+    "project_id": "hsquiz-3f4f7",
+    "storage_bucket": "hsquiz-3f4f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858164651513:android:279d9d45b680ab9f",
+        "android_client_info": {
+          "package_name": "com.example.paulius.hsquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858164651513-28u5eompigivfk17vqe5gpqft4juglvg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.paulius.hsquiz",
+            "certificate_hash": "30D9CA98BC75E41A43F1C8D8460C26C92B8C943A"
+          }
+        },
+        {
+          "client_id": "858164651513-gdp6n313mslpbjvsi3rp6m3se1tluhdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [{ "current_key": "" }],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858164651513-gdp6n313mslpbjvsi3rp6m3se1tluhdd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

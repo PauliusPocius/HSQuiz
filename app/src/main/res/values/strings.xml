@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hearthstone Quiz</string>
+    <string name="exit">exit</string>
+    <string name="abaut">abaut</string>
+    <string name="start_quiz">start quiz</string>
+    <string name="banner_ad_unit_id">ca-app-pub-9449377930750763/6483202132</string>
+    <color name="tan_background">#FFF7DA</color>
+</resources>
